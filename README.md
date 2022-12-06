@@ -1,3 +1,5 @@
+# О проекте
+Простой проект подгрузки данных о фильмах с сервера на реакте, выполненный через функциональные компоненты и асинхронное обращение к серверу.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
